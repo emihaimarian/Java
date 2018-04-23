@@ -1,6 +1,6 @@
 # Java
--The first 10 days:
-  -I. Introduction to Java:
+# The first 10 days: < hr >
+  I. Introduction to Java:
         -1. The first program
         -2. Writing and naming standards
         -3. Primitive types
