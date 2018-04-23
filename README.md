@@ -1,11 +1,11 @@
 # Java
 ### The first 10 days:
-1.Introduction to Java:
-..1. The first program
-..2. Writing and naming standards
-..3. Primitive types
-..4. Assignments and calculations
-..5. Comparators and logic operators
+1. Introduction to Java:
+⋅⋅1. The first program
+⋅⋅2. Writing and naming standards
+⋅⋅3. Primitive types
+⋅⋅5. Assignments and calculations
+⋅⋅6. Comparators and logic operators
 2.Object Orientation
 3.Object Orientation Inheritance and polymorphism
 4.Nested and Lambda types
