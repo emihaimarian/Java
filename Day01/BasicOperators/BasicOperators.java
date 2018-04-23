@@ -108,20 +108,6 @@ public class BasicOperators{
         
         //nr6 is set to 39
         int nr6 = nr2 * --nr3;
-        System.out.println("nr6 = nr2 * nr1++ = " + nr6 + "\n");
-       
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
+        System.out.println("nr6 = nr2 * nr1++ = " + nr6 + "\n");    
     }
 }

@@ -96,8 +96,6 @@ public class PrimitiveDataTypes{
         System.out.println("string str1: " + str1);
         System.out.println();
         String str2 = "Hello\nWorld!";
-        System.out.println("String str2: " + str2);
-
-        
+        System.out.println("String str2: " + str2);        
     }
 }
